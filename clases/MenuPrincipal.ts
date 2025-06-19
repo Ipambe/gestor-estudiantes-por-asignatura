@@ -58,7 +58,7 @@ export class MenuPrincipal extends MenuBase {
 
       case '0': {
         console.log('Saliendo del programa...')
-        return
+        process.exit(0)
       }
     }
     return this.mostrarMenu()
