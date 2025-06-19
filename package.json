@@ -1,0 +1,28 @@
+{
+  "name": "gestion-estudiantes",
+  "version": "1.0.0",
+  "description": "Aplicación para la gestión de estudiantes por asignatura en la universidad. Permite agregar estudiantes, registrar calificaciones, mostrar listados y calcular porcentaje de aprobados.",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "keywords": [
+    "estudiantes",
+    "universidad",
+    "gestión",
+    "asignaturas",
+    "calificaciones",
+    "docente"
+  ],
+  "author": "Rafael Adolfo Rosa",
+  "license": "MIT",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "24.0.3",
+    "ts-node": "10.9.2",
+    "typescript": "5.8.3"
+  },
+  "dependencies": {
+    "inquirer": "^12.6.3"
+  }
+}
