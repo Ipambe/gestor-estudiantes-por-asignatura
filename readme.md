@@ -1,5 +1,28 @@
 # Práctica: Gestión de estudiantes por asignatura
 
+## Enlace al informe
+
+[Informe de la práctica](https://docs.google.com/document/d/12W0pDWh1KEGwbdjMbt-xD2l_YpwZwua_cTJ_xrtSEy8/edit?usp=sharing)
+
+## Instalación
+
+1. Clona el repositorio en tu máquina local:
+   ```bash
+   git clone https://github.com/Ipambe/gestor-estudiantes-por-asignatura.git
+   ```
+2. Navega al directorio del proyecto:
+   ```bash
+   cd gestor-estudiantes-por-asignatura
+   ```
+3. Instala las dependencias:
+   ```bash
+   npm install
+   ```
+4. Ejecuta el proyecto:
+   ```bash
+   npm run start
+   ```
+
 ## Objetivo
 
 - Aplicar conceptos de herencia, clases derivadas y polimorfismo.
