@@ -35,7 +35,7 @@ export class MenuEstudiante extends MenuBase {
             name: 'Ver porcentaje de estudiantes aprobados/reprobados del grupo',
             value: '7'
           },
-          { name: 'Salir', value: '0' }
+          { name: 'Volver al menú principal', value: '0' }
         ]
       }
     ])
